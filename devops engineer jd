@@ -1,0 +1,39 @@
+Devops tools and knowledge in market
+Cloud
+  aws
+  azure
+  gcp
+IAC
+  Terraform
+  ARM template -if azure
+scm
+  ansible
+  puppet
+  chef
+Version controlling
+  git
+  svn
+  bitucket,gitlab,git hub
+ci/cd
+  teamcity
+  azure devops
+  jenkins
+  gitlab
+monitoring
+  promethues
+  graffana
+  data dog
+Deployment
+  vm
+  docker
+  kubernets
+  web apps
+scripting
+  powershell
+  linux
+  python
+  cli
+Artifactory
+  jfrog
+  nexus
+  azure artifacts
