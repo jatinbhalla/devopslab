@@ -28,3 +28,7 @@ task2:
 find difference between git pull and git fetch
 
 try to clone using https and ssh
+
+
+
+Jenkins setup link on azure vm:  https://docs.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
