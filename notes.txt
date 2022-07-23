@@ -22,13 +22,21 @@ az400 azure devops
 https://azure.microsoft.com/en-in/resources/events/
 
 https://education.github.com/git-cheat-sheet-education.pdf
+
+16 and 17 July 2022
+
 task1:
 try git cheat sheet commands
 task2:
 find difference between git pull and git fetch
+Task3:
+Try to clone using https and ssh
+https://github.com/jatinbhalla/devopslab
 
-try to clone using https and ssh
+23/7/2022
 
-
-
+Task4: 
+create azure subscription
+Task5:
+setup Jenkins either on your local machine or vm machine in azure
 Jenkins setup link on azure vm:  https://docs.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
