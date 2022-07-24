@@ -31,7 +31,7 @@ task2:
 find difference between git pull and git fetch
 Task3:
 Try to clone using https and ssh
-https://github.com/jatinbhalla/devopslab
+https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 23/7/2022
 
