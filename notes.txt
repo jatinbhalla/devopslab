@@ -40,3 +40,11 @@ create azure subscription
 Task5:
 setup Jenkins either on your local machine or vm machine in azure
 Jenkins setup link on azure vm:  https://docs.microsoft.com/en-us/azure/developer/jenkins/configure-on-linux-vm
+
+24/07/2022
+Task6:
+Difference between Declarative and scripted pipeline in jenkins
+Task7:
+see differences between different types of items available under new item options
+Task8:
+try to create a simple pipeline and execute that pipeline every day at 2pm
