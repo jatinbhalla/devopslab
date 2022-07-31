@@ -33,6 +33,7 @@ Task3:
 Try to clone using https and ssh
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
+
 23/7/2022
 
 Task4: 
@@ -52,5 +53,6 @@ try to create a simple pipeline and execute that pipeline every day at 2pm
 Docker
 Docker hub:https://hub.docker.com/search?q=
 Play with docker:https://labs.play-with-docker.com/
+Docker cheat sheet:https://dockerlabs.collabnix.com/docker/cheatsheet/
 
 
