@@ -34,6 +34,8 @@ Try to clone using https and ssh
 https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 
 
+
+
 23/7/2022
 
 Task4: 
@@ -49,6 +51,12 @@ Task7:
 see differences between different types of items available under new item options
 Task8:
 try to create a simple pipeline and execute that pipeline every day at 2pm
+
+31/07/2022
+Task9: Try docker cheat sheet commands
+https://dockerlabs.collabnix.com/docker/cheatsheet/
+Task10: try to run ubuntu images on your system
+Task11: find difference between docker compose and docker file
 
 Docker
 Docker hub:https://hub.docker.com/search?q=
