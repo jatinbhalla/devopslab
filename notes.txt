@@ -58,6 +58,10 @@ https://dockerlabs.collabnix.com/docker/cheatsheet/
 Task10: try to run ubuntu images on your system
 Task11: find difference between docker compose and docker file
 
+6/08/2022
+task12: try hands on activity on docker volumns : https://www.toolsqa.com/docker/docker-volume/
+task13 : study docker networking
+
 Docker
 Docker hub:https://hub.docker.com/search?q=
 Play with docker:https://labs.play-with-docker.com/
