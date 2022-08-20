@@ -67,4 +67,11 @@ Docker hub:https://hub.docker.com/search?q=
 Play with docker:https://labs.play-with-docker.com/
 Docker cheat sheet:https://dockerlabs.collabnix.com/docker/cheatsheet/
 
-
+Kubernets
+https://www.simplilearn.com/tutorials/kubernetes-tutorial/kubernetes-cheat-sheet
+https://phoenixnap.com/kb/kubectl-commands-cheat-sheet
+https://spot.io/resources/kubernetes-autoscaling/5-kubernetes-deployment-strategies-roll-out-like-the-pros/#:~:text=What%20is%20Kubernetes%20Deployment%20Strategy,to%20match%20the%20desired%20state.
+https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=browser
+https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/
+https://docs.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
+https://azure.microsoft.com/en-in/resources/get-started-with-kubernetes-on-azure/
