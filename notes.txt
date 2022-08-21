@@ -75,3 +75,6 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure
 https://www.azuredevopslabs.com/labs/vstsextend/kubernetes/
 https://docs.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli
 https://azure.microsoft.com/en-in/resources/get-started-with-kubernetes-on-azure/
+
+Terraform
+cheat sheet https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
