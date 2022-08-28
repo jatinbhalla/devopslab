@@ -78,3 +78,7 @@ https://azure.microsoft.com/en-in/resources/get-started-with-kubernetes-on-azure
 
 Terraform
 cheat sheet https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet
+
+Grafana
+https://medium.com/globant/monitoring-azure-vms-using-grafana-6b6636582bdd
+https://docs.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin
